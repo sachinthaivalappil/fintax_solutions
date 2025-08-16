@@ -1,0 +1,58 @@
+
+# Node.js
+node_modules/
+package-lock.json
+
+# Bun
+bun.lockb
+
+# Build output
+dist/
+.vite
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+
+# Env files
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+
+# Misc
+*.swp
+*.swo
+
+# Coverage
+coverage/
+
+# TypeScript
+*.tsbuildinfo
+
+# Docker
+*.pid
+docker-compose.override.yml
+
+# Public uploads
+public/lovable-uploads/
+
+# Ignore build artifacts and temp files
+tmp/
+temp/
+.cache/
+
+# Ignore yarn
+yarn.lock
+
+# Ignore Mac system files
+.AppleDouble
+.LSOverride
+
+# Ignore test output
+test-output/
