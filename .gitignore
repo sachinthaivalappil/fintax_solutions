@@ -40,7 +40,7 @@ coverage/
 docker-compose.override.yml
 
 # Public uploads
-public/lovable-uploads/
+
 
 # Ignore build artifacts and temp files
 tmp/
